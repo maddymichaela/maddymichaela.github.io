@@ -1,0 +1,14 @@
+{
+	"home_page_title": "Home v61",
+	"menus": {
+		"main_nav": "Main Menu v61"
+	},
+	"nav_menus":{
+		"2":"Main Menu v61"
+	},
+	"tatsu_active_header":"main-header",
+	"tatsu_active_footer":"footer",
+	"content_plugins": {
+		"safe-svg":"Safe SVG"
+	}
+}
